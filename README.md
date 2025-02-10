@@ -4,7 +4,7 @@ Entoa TTS is...
 [Hugging Face Dataset](https://huggingface.co/datasets/nilc-nlp/NURC-SP_ENTOA_TTS)
 
 # Models
-- **FastSpeech2**: https://github.com/nilc-nlp/entoa-tts/tree/main/models/FastSpeech2
+- **FastSpeech2**: [FastSpeech2 info](https://github.com/nilc-nlp/entoa-tts/tree/main/models/FastSpeech2)
 
 # Examples
 <table>
