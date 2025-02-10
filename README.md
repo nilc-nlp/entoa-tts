@@ -9,7 +9,7 @@ Entoa TTS is...
 # Examples
 <table>
   <tr>
-    <th>Prompt speech</th>
+    <th>Speech</th>
     <th>FastSpeech2-CMLTTS</th>
   </tr>
   <tr>
