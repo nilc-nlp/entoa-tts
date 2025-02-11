@@ -13,7 +13,7 @@ Entoa TTS is...
     <th>Speech</th>
     <th>FastSpeech2-CMLTTS-SPK-12249</th>
     <th>FastSpeech2-CMLTTS-SPK-12249</th>
-    <th>FastSpeech2-CMLTTS-SPK-D2_333</th>
+    <th>FastSpeech2-CMLTTS-SPK-D2_333_L1</th>
   </tr>
   
 <tr>  
@@ -60,8 +60,8 @@ Entoa TTS is...
   <td>06</td>
   <td>porque a televisão é horroroso quando eles estão fazendo programa.</td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/porque a televisão é horroroso quando eles estão fazendo programa.wav'}}" type="audio/mpeg"></audio></td>   
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_333/speaker_25/porque a televisão é horroroso quando eles estão fazendo programa.wav'}}" type="audio/mpeg"></audio></td>   
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_333/speaker_d2_333/porque a televisão é horroroso quando eles estão fazendo programa.wav'}}" type="audio/mpeg"></audio></td>   
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_333/speaker_25/porque a televisão é horroroso quando eles estão fazendo programa..wav'}}" type="audio/mpeg"></audio></td>   
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_333/speaker_d2_333/porque a televisão é horroroso quando eles estão fazendo programa..wav'}}" type="audio/mpeg"></audio></td>   
 </tr>
 
 <tr>  
