@@ -35,4 +35,17 @@ Using:
 python synthesize.py --text "porque a televisão é horroroso quando eles estão fazendo programa."  \
  --speaker_id 54 --restore_step 720000 --mode single -p config/cmltts_entoa_pros/preprocess.yaml \
  -m config/cmltts_entoa_pros/model.yaml -t config/cmltts_entoa_pros/train.yaml
-cmltts_entoa_pros``
+````
+
+
+# CMLTTS_ENTOA_AUTO Checkpoint
+CMLTTS 30 speakers + 83 automatic speakers (entoa-tts-auto) 
+````
+Step 720000, Total Loss: 2.2450, Mel Loss: 0.6181, Mel PostNet Loss: 0.6163, Pitch Loss: 0.2990, Energy Loss: 0.5002, Duration Loss: 0.2114
+````
+Using:
+````
+python synthesize.py --text "porque a televisão é horroroso quando eles estão fazendo programa."  \
+ --speaker_id 93 --restore_step 720000 --mode single -p config/cmltts_entoa_auto/preprocess.yaml \
+ -m config/cmltts_entoa_auto/model.yaml -t config/cmltts_entoa_auto/train.yaml
+````
