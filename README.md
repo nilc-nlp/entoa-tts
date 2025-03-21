@@ -196,7 +196,7 @@ Entoa TTS is...
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/porque eu saio cansada mesmo.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_pros/speaker_12249/porque eu saio cansada mesmo.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249/porque eu saio cansada mesmo.wav'}}" type="audio/mpeg"></audio></td>   
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/fico numa tensão nervosa..wav'}}" type="audio/mpeg"></audio></td>   
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/Outro filme, ela... Porque eu saio cansada mesmo, fico numa tensão nervosa..wav'}}" type="audio/mpeg"></audio></td>   
 </tr>
 
 <tr>  
@@ -205,7 +205,8 @@ Entoa TTS is...
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/eu fico numa tensão nervosa.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_pros/speaker_12249/eu fico numa tensão nervosa.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249/eu fico numa tensão nervosa.wav'}}" type="audio/mpeg"></audio></td> 
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/Outro filme, ela... Porque eu saio cansada mesmo, fico numa tensão nervosa..wav'}}" type="audio/mpeg"></audio></td> 
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/fico numa tensão nervosa..wav'}}" type="audio/mpeg"></audio></td> 
+  
 </tr>
 
 <tr>  
