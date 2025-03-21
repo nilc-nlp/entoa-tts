@@ -97,7 +97,7 @@ Entoa TTS is...
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/tenho impressão que ali levou tanto tempo de ensaio.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_pros/speaker_12249/tenho impressão que ali levou tanto tempo de ensaio.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249/tenho impressão que ali levou tanto tempo de ensaio.wav'}}" type="audio/mpeg"></audio></td>   
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/Tem a impressão que ali levou tanto tempo de ensaio?.wav'}}" type="audio/mpeg"></audio></td>   
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/Tem a impressão que ali levou tanto tempo de ensaio_.wav'}}" type="audio/mpeg"></audio></td>   
 </tr>
 
 <tr>  
@@ -115,7 +115,7 @@ Entoa TTS is...
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/eu saber que o filme é bom.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_pros/speaker_12249/eu saber que o filme é bom.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249/eu saber que o filme é bom.wav'}}" type="audio/mpeg"></audio></td>   
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/saber que o filme é bom, porque, por exemplo, nós temos tido filmes bons, né?.wav'}}" type="audio/mpeg"></audio></td>   
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/saber que o filme é bom, porque, por exemplo, nós temos tido filmes bons, né_.wav'}}" type="audio/mpeg"></audio></td>   
 </tr>
 
 <tr>  
@@ -151,7 +151,7 @@ Entoa TTS is...
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/hoje tá tudo meio louco né.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_pros/speaker_12249/hoje tá tudo meio louco né.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249/hoje tá tudo meio louco né.wav'}}" type="audio/mpeg"></audio></td>   
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/Hoje está tudo meio louco, né?.wav'}}" type="audio/mpeg"></audio></td>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/Hoje está tudo meio louco, né_.wav'}}" type="audio/mpeg"></audio></td>  
 </tr>
 
 <tr>  
@@ -268,7 +268,7 @@ Entoa TTS is...
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/eu acho que o cinema tá perdendo viu.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_pros/speaker_12249/eu acho que o cinema tá perdendo viu.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249/eu acho que o cinema tá perdendo viu.wav'}}" type="audio/mpeg"></audio></td>   
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/Eu acho que o cinema está perdendo, viu?.wav'}}" type="audio/mpeg"></audio></td> 
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249_punct/Eu acho que o cinema está perdendo, viu_.wav'}}" type="audio/mpeg"></audio></td> 
 </tr>
 
 <tr>  
