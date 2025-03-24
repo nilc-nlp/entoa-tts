@@ -267,7 +267,7 @@ To compose the dataset part called "prosodic" it was used only terminal intonati
 
 <tr>  
   <td>28</td>  
-  <td>eu acho que o cinema tá perdendo viu</td-- 
+  <td>eu acho que o cinema tá perdendo viu</td> 
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/ground_truth/SP_DID_234_seg_1935.41_1937.01.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/eu acho que o cinema tá perdendo viu.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_pros/speaker_12249/eu acho que o cinema tá perdendo viu.wav'}}" type="audio/mpeg"></audio></td>   
@@ -281,7 +281,7 @@ To compose the dataset part called "prosodic" it was used only terminal intonati
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts/speaker_25/o que eu noto é isso.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_pros/speaker_12249/o que eu noto é isso.wav'}}" type="audio/mpeg"></audio></td>   
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/FastSpeech2/output/cmltts_entoa_auto/speaker_12249/o que eu noto é isso.wav'}}" type="audio/mpeg"></audio></td>   
-</tr>x
+</tr>
 
 <tr>  
   <td>30</td> 
@@ -294,4 +294,3 @@ To compose the dataset part called "prosodic" it was used only terminal intonati
 
  
 </table>
-
