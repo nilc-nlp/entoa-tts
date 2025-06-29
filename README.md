@@ -316,6 +316,13 @@ WhisperX segments aiming for computational efficiency of automatic transcription
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0368_SP_D2_255.wav_2451.58_2458.53.wav'}}" type="audio/mpeg"></audio></td>   
   <td>Muito bem, eu acho que nós já tivemos ótimas apresentações por parte de</td>
 </tr>
- 
+
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_DID_018_seg_205.34_215.63.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>até no decorrer do tempo a fazenda foi... diminuindo essa parte de café... e em consequência também diminuiu o número de pessoas... que trabalhava na fazenda.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0059_SP_DID_018.wav_257.74_265.97.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>Até no decorrer do tempo, a fazenda foi diminuindo essa parte de café e, em consequência, também diminuiu o número de pessoas</td>
+</tr>
+
 </table>
 
