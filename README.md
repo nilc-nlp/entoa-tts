@@ -324,5 +324,12 @@ WhisperX segments aiming for computational efficiency of automatic transcription
   <td>Até no decorrer do tempo, a fazenda foi diminuindo essa parte de café e, em consequência, também diminuiu o número de pessoas</td>
 </tr>
 
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_255_seg_2129.06_2137.17.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>se o status hoje... entende? seria de querer apenas a violência e::... e os programas de PRÊmios entende? nós temos que fazê-los subir... um degrau.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0333_SP_D2_255.wav_2198.53_2202.46.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>Se o status hoje seria de querer apenas a violência e</td>
+</tr>
+
 </table>
 
