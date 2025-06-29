@@ -5,6 +5,9 @@ To compose the dataset part called "prosodic" it was used only terminal intonati
 # Dataset
 [Hugging Face Dataset](https://huggingface.co/datasets/nilc-nlp/NURC-SP_ENTOA_TTS)
 
+# Code
+[Github](https://github.com/nilc-nlp/entoa-tts)
+
 # Models
 - **FastSpeech2**: [FastSpeech2 info](https://github.com/nilc-nlp/entoa-tts/tree/main/models/FastSpeech2)
 
@@ -294,3 +297,25 @@ To compose the dataset part called "prosodic" it was used only terminal intonati
 
  
 </table>
+
+# Examples - Segments 
+
+WhisperX segments aiming for computational efficiency of automatic transcription and not by linguistic criteria, generating segmentation errors. We bring a list of 16 pairs that show the discrepancy between the prosodic segmentation adopted in NURC-SP MC and that of WhisperX, to illustrate these cases:
+
+<table>
+  <tr>
+    <th>Manual</th>
+    <th>Manual text</th>
+    <th>WhisperX</th>
+    <th>WhisperX text</th>
+  </tr>
+  
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/0368_SP_D2_255.wav_2451.58_2458.53.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>muito bem eu acho que nós... já tivemos ótimas... apresentações sobre parte de::... de:: rádio::... televisão.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/0368_SP_D2_255.wav_2451.58_2458.53.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>Muito bem, eu acho que nós já tivemos ótimas apresentações por parte de</td>
+</tr>
+ 
+</table>
+
