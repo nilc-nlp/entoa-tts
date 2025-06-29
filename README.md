@@ -311,9 +311,9 @@ WhisperX segments aiming for computational efficiency of automatic transcription
   </tr>
   
 <tr>  
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/0368_SP_D2_255.wav_2451.58_2458.53.wav'}}" type="audio/mpeg"></audio></td>   
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_255_seg_2382.07_2392.01.wav'}}" type="audio/mpeg"></audio></td>   
   <td>muito bem eu acho que nós... já tivemos ótimas... apresentações sobre parte de::... de:: rádio::... televisão.</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/0368_SP_D2_255.wav_2451.58_2458.53.wav'}}" type="audio/mpeg"></audio></td>   
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0368_SP_D2_255.wav_2451.58_2458.53.wav'}}" type="audio/mpeg"></audio></td>   
   <td>Muito bem, eu acho que nós já tivemos ótimas apresentações por parte de</td>
 </tr>
  
