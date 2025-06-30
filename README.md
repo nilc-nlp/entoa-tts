@@ -346,6 +346,13 @@ WhisperX segments aiming for computational efficiency of automatic transcription
 </tr>
 
 <tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_255_seg_54.36_56.65.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>eu viajo mais é... fazendo turismo mesmo.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0018_SP_D2_255.wav_123.76_126.96.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>Eu viajo mais fazendo turismo mesmo.</td>
+</tr>
+
+<tr>  
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_255_seg_4495.22_4501.72.wav'}}" type="audio/mpeg"></audio></td>   
   <td>e há alunos que vêm::... dos pontos os MAIS distantes... mas não chegam a constituir... uma maioria.</td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0645_SP_D2_255.wav_4564.81_4566.05.wav'}}" type="audio/mpeg"></audio></td>   
@@ -366,12 +373,12 @@ WhisperX segments aiming for computational efficiency of automatic transcription
   <td>No Canadá francês, houve-se dos camponeses franceses expressões de rabelais,</td>
 </tr>
 
-<tr>  
+<!--tr>  
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_360_seg_1112.06_1115.14.wav'}}" type="audio/mpeg"></audio></td>   
   <td>não não há possibili/ não não pode ser feito concurso porque não tem vagas.</td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0299_SP_D2_360.wav_1172.35_1173.09.wav'}}" type="audio/mpeg"></audio></td>   
   <td>Então, não pode ser feito um concurso</td>
-</tr>
+</tr-->
 
 <tr>  
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_360_seg_1574.30_1577.65.wav'}}" type="audio/mpeg"></audio></td>   
