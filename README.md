@@ -331,5 +331,27 @@ WhisperX segments aiming for computational efficiency of automatic transcription
   <td>Se o status hoje seria de querer apenas a violência e</td>
 </tr>
 
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_255_seg_4433.26_4464.19.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>é aliás... aliás diga-se de passagem que::... eu já trabalho aqui na escola já há sete Anos e sempre recebi... na na porque a o a minha cadeira propicia MUIto o debate com os alunos coisas desse tipo né?... e realmente sempre recebi todo o apoio e... toda a::... a:: assim... todas as::... propostas que eu fiz aqui de trazer pessoas de fazer seminários de resolver sempre encontraram apoio da direção sem nenhuma restrição pelo contrário... até ajudando estimulando essa coisa toda.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0637_SP_D2_255.wav_4503.73_4505.37.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>Aliás, diga-se de passagem que</td>
+</tr>
+
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_255_seg_1830.28_1844.86.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>eu acho que a televisão... ao se implanTAR no Brasil e para criAR como efetivamente criOU... aquele MIto de dependência que o Rui se reportou muito bem para com o espectador... poderia ter desCIdo aos níveis desejáveis pelo GRANde público.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0302_SP_D2_255.wav_1899.68_1901.00.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>Eu acho que a televisão</td>
+</tr>
+
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_255_seg_4495.22_4501.72.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>e há alunos que vêm::... dos pontos os MAIS distantes... mas não chegam a constituir... uma maioria.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0645_SP_D2_255.wav_4564.81_4566.05.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>E há alunos que vêm...</td>
+</tr>
+
+
 </table>
 
