@@ -352,6 +352,33 @@ WhisperX segments aiming for computational efficiency of automatic transcription
   <td>E há alunos que vêm...</td>
 </tr>
 
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_333_seg_711.47_726.56.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>que aliás até algum... até o:: acho que o fim do século passado... éh mamãe sempre como:: contava que elas tinham umas amigas que eram sempre carinhosas eram umas velhinhas muito simpáticas então elas se vi/ iam visitá-las... e almoçavam com elas e elas diziam ''comei batati::nha!</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0126_SP_D2_333.wav_762.87_766.89.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>E, aliás, até o fim do século passado,</td>
+</tr>
+
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_333_seg_606.52_639.41.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>enquanto... o inglês ficou::... o francês no caso do Canadá francês o francês... éh foi... éh... se crian::do... diariamente se acrescentando... na:: na França enquanto a língua francesa foi se acrescentando... foi-se amoldando aos tempos... no Canadá francês... ouve-se dos... camponeses franceses expressões... de Rebelais... expressões de um francês clássico.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0114_SP_D2_333.wav_679.31_687.26.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>No Canadá francês, houve-se dos camponeses franceses expressões de rabelais,</td>
+</tr>
+
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_360_seg_1112.06_1115.14.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>não não há possibili/ não não pode ser feito concurso porque não tem vagas.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0299_SP_D2_360.wav_1172.35_1173.09.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>Então, não pode ser feito um concurso</td>
+</tr>
+
+<tr>  
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/manual/SP_D2_360_seg_1574.30_1577.65.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>os assessores nem sempre tinham oportunidades.</td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'experiments/segmentation/whisperx/0385_SP_D2_360.wav_1621.95_1622.79.wav'}}" type="audio/mpeg"></audio></td>   
+  <td>Os assessores...</td>
+</tr>
 
 </table>
 
