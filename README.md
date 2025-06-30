@@ -300,7 +300,7 @@ To compose the dataset part called "prosodic" it was used only terminal intonati
 
 # Examples - Segments 
 
-WhisperX segments aiming for computational efficiency of automatic transcription and not by linguistic criteria, generating segmentation errors. We bring a list of 16 pairs that show the discrepancy between the prosodic segmentation adopted in NURC-SP MC and that of WhisperX, to illustrate these cases:
+WhisperX segments aiming for computational efficiency of automatic transcription and not by linguistic criteria, generating segmentation errors. We bring a list of 10 pairs that show the discrepancy between the prosodic segmentation adopted in NURC-SP MC and that of WhisperX, to illustrate these cases:
 
 <table>
   <tr>
